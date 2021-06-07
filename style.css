@@ -1,0 +1,22 @@
+h1, h2 {
+  display: flex;
+  justify-content: center;
+}
+.bg {
+  background: url("https://mathovore.fr/wp-content/uploads/2014/07/exercices.jpg");
+}
+/* .img-fluid {
+  background-repeat: repeat-x;
+} */
+.HTML {
+  background-color: #affc3a;
+}
+.titlH {
+  color: #6fad04;
+}
+.CSS {
+  background-color: #fb9701;
+}
+.titlC {
+  color: #f45e07;
+}
